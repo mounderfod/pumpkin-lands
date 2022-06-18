@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/K01OU20C/versions/4.1.4/cardinal-components-api-4.1.4.jar"
-hash-format = "md5"
-hash = "5016e946d72e744d57e93fee33b6bb8c"
+hash-format = "sha1"
+hash = "c6501b7212b947e115e4299106f908ca0ca2e9fe"
 
 [update]
 [update.modrinth]
