@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appliedenergistics2/client.json"
+hash = "8e1abdf2a5ca581b487476ee413c4aaeb73b3173a2eb9512d41443cab9db5bbc"
+
+[[files]]
+file = "config/appliedenergistics2/common.json"
+hash = "cfc234f9534de62f17c9fbfec3b0677087fe74d95ea437f4f1ad3be67057d776"
+
+[[files]]
+file = "config/quickconnectbutton.json5"
+hash = "18748ba491e80d1a39de537aa734808e10e215eacc19fa29270c25bd19291e57"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
@@ -66,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "53e2757af354d2f5df6d881fabcd5d0bb0bb5d13557f97429f119d2ad0eb53f4"
+hash = "b8cdf57e92529aaf00e1ab18e068d8ccc46fee1237ef00f60c32cb1ab77b18bf"
 metafile = true
 
 [[files]]
@@ -248,6 +260,15 @@ hash = "ba4c85d3c6da8cd0ea27bae046c59a39009b1c703af0a9ace73cf9a4164b2dfe"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "5550969b4452732ae5e1603b262177de776f65327fda1db9ac62629222e7ee7f"

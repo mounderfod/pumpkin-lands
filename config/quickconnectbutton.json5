@@ -1,0 +1,6 @@
+{
+	// The address to connect to when the Connect button is pressed.
+	"address": "51.83.61.42:25594",
+	// The name of the Button.
+	"connectButton": "Connect"
+}
