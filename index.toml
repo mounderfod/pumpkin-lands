@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "df7dab333fcaef8a5da41eb4fe69913d24e2c143bccd2804c0d9dee2c7e79ecb"
+hash = "5f99a9e80c2ea75a4151e0d811fda950fff06ccb2e29a1724777069d6d9e84ed"
 metafile = true
 
 [[files]]
@@ -29,12 +29,12 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "b9b04d3fe7344e71ec805ae30a11aa8723290fff13e04baff93ea865bc686085"
+hash = "554b3b9ba6652a8d914605ebd2245f684de022ba0f0ad9d2b40bdeff2b152bb1"
 metafile = true
 
 [[files]]
 file = "mods/architects-palette-fabric.pw.toml"
-hash = "30ef1ffac3979f58ba055b03006246e085bb7e893ba63f51e6b2441bb28ad05c"
+hash = "5d068ee053bfe3b7815d9b28b12144aaf65f9253247eff40480aacf3c2a8e02e"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "9e479fb3d2f9d6c59eda4dc26edc38b3749a64d4d4c8a55a57e014bd27451103"
+hash = "a901ef08b2a39519c2bfba8838402130c45ba9a5e2a3df38fbbd3b2d4829af41"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3a45d041e6a321872b735aeedf19db9f82a4ec6e66c4ca55f8710e1c645a2f55"
+hash = "bc859d5d17706a14eff618bae19efe135954a56c5afc963a84a6591ea468cd5e"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ hash = "8042f40ab172af377453151e60283e9bd5da6c1564f960eadb751dedfda523b0"
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9019e28a8adc88a3fcd2c7d77a2ddc1aab11de8797c2eb1c1294dc72f977114b"
+hash = "2056e66a16b6e3bbef4e56eaeddc744e92acee372ebd8a3c7c90750170e61665"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9365060aa11c8e3e8ba92dcd50c14770ef06ee5fc31c2d3b393ba414b1e0b871"
+hash = "b5607574307015e2aeff02e0380933a80e3f1a75d2e6266291a3987f4beaa945"
 metafile = true
 
 [[files]]
