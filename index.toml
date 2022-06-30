@@ -235,6 +235,11 @@ hash = "da403a55fd88f2d2aeacec6de320b7c8fb5010a7de8b831414fb4933681c9f44"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c90331a5ed2c61bd8e45157777bc15fbe9e2e582bb05405df860a98c3e1b2386"
+metafile = true
+
+[[files]]
 file = "mods/simplevillagers.pw.toml"
 hash = "e08c15ad879b230dcd156d2674fdd179c613a41a95c6495c7118212de4a69a55"
 metafile = true
